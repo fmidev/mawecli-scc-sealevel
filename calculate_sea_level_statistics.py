@@ -6,6 +6,7 @@ Created on Tue Apr 13 11:38:37 2021
 This script calculates the extreme sea level events used in the upcoming GRL paper
 "The impact of serial cyclone clustering on extremely high sea levels in the Baltic Sea"
 
+This script also plots Figure S03 in the paper
 
 @author: rantanem
 """
